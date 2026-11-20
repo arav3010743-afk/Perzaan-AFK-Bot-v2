@@ -1,7 +1,7 @@
 {
   "bot-account": {
     "username": "AternosAFKBot",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Devloper010.aternos.me",
@@ -18,4 +18,5 @@
     "auto-reconnect-delay": 10000
   }
 }
+
 
